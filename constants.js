@@ -1,5 +1,5 @@
 module.exports = {
-  DB_URL: "mongodb://amkurian:amkurian1@ds257981.mlab.com:57981/simple-chat",
+  DB_URL: "",
   RESPONSE_CODES: {
     INTERNAL_SERVER_ERROR: 500,
     REQUEST_OK: 200,
